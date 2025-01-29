@@ -73,7 +73,7 @@
             }
         });
         alert('Done!');
-       // location.reload();
+       location.reload();
     }
 
 
