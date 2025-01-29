@@ -3,6 +3,7 @@ Tampermonkey script designed to interact with the Confluent Kafka REST API, enab
 <br>
 # Requirements:
 - Tampermonkey extension
+- chrome://extensions (Developer Mode Enabled)
 
 
 # Example
