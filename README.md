@@ -1,5 +1,9 @@
 # confluent-kafka-msg-delete-tampermonkey
-Tampermonkey script designed to interact with the Confluent Kafka REST API, enabling the management of Kafka topics by allowing users to delete and recreate topics.
+Tampermonkey script designed to interact with the Confluent Kafka REST API, enabling the management of Kafka topics by allowing users to delete and recreate topics. This Tampermonkey script will add a new button under the topic configuration menu.
 <br>
-![Example Button](img.png)
+# Requirements:
+- Tampermonkey extension
+- Kafka REST Proxy enabled
 
+# Example
+![Example Button](img.png)
